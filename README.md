@@ -22,7 +22,7 @@ pip install ura
 
 ### Usage
 
-Initialize client with access key. Each endpoint is represented by a function within the Client.  Please refer to documentation [here](https://ura-api.readthedocs.io/en/latest/) for information on other endpoints.
+Initialize client with access key. Each endpoint is represented by a function within the Client.  Please refer to documentation [here](https://ura-api.readthedocs.io/en/latest/source/ura.html) for information on other endpoints.
 
 ```python
 URA_ACCESS_KEY = ''
