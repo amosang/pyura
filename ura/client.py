@@ -224,7 +224,7 @@ class Client:
             (3) last_dnload_date is not of format dd/mm/yyyy.
         """
         # ensure params follow API requirements
-        pattern = re.compile(r"^(0[1-9]|1[012])/(0[1-9]|[12][0-9]|3[01])/(19|20)\d\d$")
+        pattern = re.compile(r"^(0[1-9]|[12][0-9]|3[01])/(0[1-9]|1[012])/(19|20)\d\d$")
         if year and last_dnload_date:
             raise ValueError(
                 "Service accepts either one but not both year and last_dnload_date parameter."
