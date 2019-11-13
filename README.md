@@ -1,6 +1,6 @@
 # pyura
 
- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![codecov](https://codecov.io/gh/eugenekoh/ura/branch/master/graph/badge.svg)](https://codecov.io/gh/eugenekoh/ura) [![Build Status](https://travis-ci.org/eugenekoh/pyura.svg?branch=master)](https://travis-ci.org/eugenekoh/pyura) [![Documentation Status](https://readthedocs.org/projects/pyura/badge/?version=latest)](https://pyura.readthedocs.io/en/latest/?badge=latest) 
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![codecov](https://codecov.io/gh/eugenekoh/pyura/branch/master/graph/badge.svg)](https://codecov.io/gh/eugenekoh/pyura) [![Build Status](https://travis-ci.org/eugenekoh/pyura.svg?branch=master)](https://travis-ci.org/eugenekoh/pyura) [![Documentation Status](https://readthedocs.org/projects/pyura/badge/?version=latest)](https://pyura.readthedocs.io/en/latest/?badge=latest) 
 
 URA publishes URA related data for public use and is available for download for the creation, development and testing of innovative applications by third party. This is an unofficial python api wrapper for URA data services api. 
 

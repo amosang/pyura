@@ -7,7 +7,7 @@ README = (HERE / "README.md").read_text()
 
 setup(
     name="pyura",
-    version="1.0.0",
+    version="1.0.1",
     description="unofficial python api wrapper for ura data services api",
     long_description=README,
     long_description_content_type="text/markdown",
