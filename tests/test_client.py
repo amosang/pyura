@@ -65,7 +65,7 @@ class TestPrivateResidentialProperty:
         assert len(result) > 0
 
     def test_private_resi_pipeline(self, client):
-        result = client.private_nl_resi_rental_median()
+        result = client.private_resi_pipeline()
 
         assert isinstance(result, list)
         assert len(result) > 0
