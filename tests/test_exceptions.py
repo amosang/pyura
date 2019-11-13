@@ -2,8 +2,8 @@
 
 import pytest
 from requests.exceptions import HTTPError
-from ura.constants import CARPARK_AVAILABILITY_ENDPOINT
-from ura.exceptions import ApiError
+from pyura.constants import CARPARK_AVAILABILITY_ENDPOINT
+from pyura.exceptions import ApiError
 from .test_client import client
 
 
@@ -49,7 +49,7 @@ class TestParameterError:
             ("1999", None),
             (1999, None),
             (None, 1234),
-            (None, "31/12/2019"),
+            (None, "12/31/2019"),
         ],
     )
     def test_planning_decisions(self, client, year, last_dnload_date):

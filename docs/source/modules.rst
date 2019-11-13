@@ -1,7 +1,7 @@
-ura
-===
+pyura
+=====
 
 .. toctree::
    :maxdepth: 4
 
-   ura
+   pyura

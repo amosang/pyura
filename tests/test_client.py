@@ -3,7 +3,7 @@
 import pytest
 import os
 
-from ura import Client
+from pyura import Client
 from datetime import date, timedelta
 
 

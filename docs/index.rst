@@ -1,10 +1,10 @@
-.. ura documentation master file, created by
-   sphinx-quickstart on Sun Nov 10 23:49:21 2019.
+.. pyura documentation master file, created by
+   sphinx-quickstart on Wed Nov 13 14:48:24 2019.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to ura's documentation!
-===============================
+Welcome to pyura's documentation!
+=================================
 
 .. toctree::
    :maxdepth: 2

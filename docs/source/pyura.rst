@@ -1,29 +1,29 @@
-ura package
-===========
+pyura package
+=============
 
 Submodules
 ----------
 
-ura.client module
------------------
+pyura.client module
+-------------------
 
-.. automodule:: ura.client
+.. automodule:: pyura.client
    :members:
    :undoc-members:
    :show-inheritance:
 
-ura.constants module
---------------------
+pyura.constants module
+----------------------
 
-.. automodule:: ura.constants
+.. automodule:: pyura.constants
    :members:
    :undoc-members:
    :show-inheritance:
 
-ura.exceptions module
----------------------
+pyura.exceptions module
+-----------------------
 
-.. automodule:: ura.exceptions
+.. automodule:: pyura.exceptions
    :members:
    :undoc-members:
    :show-inheritance:
@@ -32,7 +32,7 @@ ura.exceptions module
 Module contents
 ---------------
 
-.. automodule:: ura
+.. automodule:: pyura
    :members:
    :undoc-members:
    :show-inheritance:
